@@ -82,7 +82,7 @@ int main() {
         }
     }
 
-    printf("%d\n", safe - 1);
+    printf("%d\n", safe);
     fclose(file);
 
     return 0;
